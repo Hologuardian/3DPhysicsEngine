@@ -1,0 +1,15 @@
+﻿------------------------------
+    REQUIREMENTS
+------------------------------
+ 
+The game requires .NET 4 and XNA 4 to be installed and is Windows only (tested with Windows 7).
+ 
+If not installed, the game crashes on start!
+ 
+.NET 4:
+
+http://www.microsoft.com/en-us/download/details.aspx?id=17851
+
+XNA 4:
+
+http://www.microsoft.com/en-us/download/details.aspx?id=20914
